@@ -1,4 +1,4 @@
-# PEAK VPN — Telegram Bot
+# PEAK VPN 
 
 Telegram-бот для автоматизированной продажи и выдачи доступа к VPN-сервису на протоколе VLESS + Reality через панель Marzban, с приёмом платежей через ЮKassa.
 
