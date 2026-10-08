@@ -10,7 +10,8 @@ PEAK VPN
 • Развёртывание: Выделенный VPS на Ubuntu. Работает в изолированных Docker-контейнерах (панель, база данных, веб-сервер). 
 • Безопасность и DNS: Панель администратора защищена через Cloudflare Proxy и Zero Trust. При этом домены самих VPN-нод работают в режиме DNS-only (без проксирования), что необходимо для корректной работы маскировки VLESS Reality. 
 
-<img width="1603" height="624" alt="Снимок экрана 2026-10-08 134442" src="https://github.com/user-attachments/assets/84c9ebb6-adf7-4e1c-b13e-c3f7504f9ffa" />
+<img width="1280" height="498" alt="image" src="https://github.com/user-attachments/assets/4d982223-fcb2-46d1-95ae-a0c41bf26111" />
+
 
 
 • Обход блокировок: Трафик упаковывается в VLESS + gRPC (HTTP/2-потоки), благодаря чему система обходит глубокий анализ пакетов (DPI) провайдеров. 
